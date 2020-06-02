@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\OpenShift3"
+		},
+		{
+			"path": "..\\..\\..\\OpenShift2"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {}
+}
